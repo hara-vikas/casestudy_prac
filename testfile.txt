@@ -1,2 +1,3 @@
 Change 1 – commit with message as “Change 1 in File 1”
 Change 2 – commit with message as “Change 2 in File 1”
+change 3 - commit with message as "made new change in idea branch"
